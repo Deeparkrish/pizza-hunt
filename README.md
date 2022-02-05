@@ -42,6 +42,7 @@ NoSQL databases, like MongoDB. MongoDB does not require the rigid structure that
   <img src ="https://github.com/Deeparkrish/pizza-hunt/blob/main/pz3.png"  width ="400px" height ="300px" />
   <img src ="https://github.com/Deeparkrish/pizza-hunt/blob/main/pz4.png"  width ="400px" height ="300px" />
  </div>
+ 
 ## Deployment 
 
 ## Contribution 
