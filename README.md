@@ -1,4 +1,4 @@
-#pizza-hunt
+# pizza-hunt
 ## Description 
 A social media style recipe application for creating and sharing custom pizzas
 ## User Story  
@@ -36,7 +36,12 @@ NoSQL databases, like MongoDB. MongoDB does not require the rigid structure that
     IndexedDB
     MongoDB Atlas
 ## Mockup 
-
+ <div>
+ <img src ="https://github.com/Deeparkrish/pizza-hunt/blob/main/pz2.png"  width ="400px" height ="300px" />
+  <img src ="https://github.com/Deeparkrish/pizza-hunt/blob/main/pz1.png"  width ="400px" height ="300px" />
+  <img src ="https://github.com/Deeparkrish/pizza-hunt/blob/main/pz3.png"  width ="400px" height ="300px" />
+  <img src ="https://github.com/Deeparkrish/pizza-hunt/blob/main/pz4.png"  width ="400px" height ="300px" />
+ </div>
 ## Deployment 
 
 ## Contribution 
